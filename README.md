@@ -44,6 +44,11 @@ Develop SQL based analytics to deliver detailed insights into :
 
 These insights empowers stakeholders with key business metrics, enabling strategic decision making.
 
+## Data architecture
+
+<img width="6033" height="2249" alt="data_model" src="https://github.com/user-attachments/assets/d727ef90-10fd-4683-8c5d-2aca8c5cb8cd" />
+
+
 ---
 ## License
 
