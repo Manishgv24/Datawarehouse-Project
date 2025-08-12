@@ -3,6 +3,10 @@
 Welcome to my data warehouse project Repository.
 I'm Building a modern data warehouse with SQL Server which includes ETL processes, Data modeling and analytics.
 
+## Project plan with Notion
+Link : https://eggplant-sleep-2dc.notion.site/SQL-Data-Warehouse-Project-2402b62b897f8002ae45d428ce0fed68?source=copy_link
+
+
 # 🏗️ Building a Modern Data Warehouse with SQL Server
 
 This repository provides a comprehensive guide and implementation for building a **Modern Data Warehouse** using **Microsoft SQL Server**. It includes everything from **ETL processes**, **data modeling**, and **data analytics**, offering a hands-on blueprint for modern data architecture and business intelligence (BI) workflows.
