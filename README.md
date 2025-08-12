@@ -24,6 +24,11 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Scope** : Focus on the dataset only. Hostorisation no needed.
 - **Documentation** : Provide clear documentation of the data model to support both business stakeholders and amalytical teams.
 
+## DATA FLOW
+
+<img width="5660" height="2936" alt="data_flow" src="https://github.com/user-attachments/assets/29c92ee8-ea82-455c-a29a-4c1af5d9b8c0" />
+
+
 ## 📦 Features
 
 - ✅ **End-to-End ETL Pipelines** using SQL Server Integration Services (SSIS) or custom SQL scripts.
